@@ -1,0 +1,46 @@
+<mxfile host="app.diagrams.net" modified="2023-08-03T12:02:24.999Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="W8jkylK2yWxlJRaJrmRG" version="21.6.6" type="github">
+  <diagram name="Page-1" id="YIbbOETjPv-Gz2Zu23EH">
+    <mxGraphModel dx="2954" dy="1148" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="f5Enn25znUYSazBda95l-1" value="Main" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="400" y="440" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="f5Enn25znUYSazBda95l-3" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="160" y="240" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="f5Enn25znUYSazBda95l-4" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="120" y="580" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="f5Enn25znUYSazBda95l-5" value="Static Strategy" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="680" y="560" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="f5Enn25znUYSazBda95l-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="f5Enn25znUYSazBda95l-6" target="f5Enn25znUYSazBda95l-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f5Enn25znUYSazBda95l-6" value="Redis Order Queue" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="710" y="270" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="f5Enn25znUYSazBda95l-7" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="90" y="590" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="f5Enn25znUYSazBda95l-8" value="Stockpp Stratergy&amp;nbsp; per stockpp holding" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="60" y="600" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="f5Enn25znUYSazBda95l-9" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="140" y="260" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="f5Enn25znUYSazBda95l-10" value="Running Model per holding" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="110" y="280" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="f5Enn25znUYSazBda95l-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="f5Enn25znUYSazBda95l-11" target="f5Enn25znUYSazBda95l-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f5Enn25znUYSazBda95l-11" value="UI" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
